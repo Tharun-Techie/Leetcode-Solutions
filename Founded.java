@@ -41,7 +41,7 @@ class Founded {
 
         Founded obj = new Founded();
 
-        int[] arr = {40,10,20,30,30};
+        int[] arr = {40,10,20,30,30,40,35,66};
         int[] res = obj.arrayRankTransform(arr);
 
         
